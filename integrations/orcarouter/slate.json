@@ -1,0 +1,19 @@
+{
+  "name": "@metorial/orcarouter",
+  "description": "Route chat completions, Responses API calls, and embeddings through OrcaRouter's OpenAI-compatible gateway, which fronts many model vendors behind one endpoint. Discover the live model catalog with capability and input-modality filters, read per-model context and pricing metadata, and connect either with an existing OrcaRouter API key or with an OAuth 2.0 + PKCE browser login that issues a key billed to the user's own account.",
+  "categories": ["apis-and-http-requests"],
+  "skills": [
+    "send chat completions",
+    "call model tools",
+    "send multimodal image input",
+    "create responses",
+    "create text embeddings",
+    "discover available models",
+    "filter models by capability",
+    "filter models by input modality",
+    "read model pricing and context",
+    "connect with an API key",
+    "connect with OAuth PKCE"
+  ],
+  "logoUrl": "https://www.orcarouter.ai/orca-logo-classic.png"
+}
